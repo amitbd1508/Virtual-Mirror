@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "125366918744",
+    "firebase_url": "https://myproject-bdcd9.firebaseio.com",
+    "project_id": "myproject-bdcd9",
+    "storage_bucket": "myproject-bdcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125366918744:android:c6297ccdc4216520",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125366918744-u2vo44uk74ncti0h1dl09evds4l2esb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7pUNi0g0CGt2seLSOuxpmNRoG_Fd-ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125366918744:android:5b6340604cca3723",
+        "android_client_info": {
+          "package_name": "com.blackflag.virtualmirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125366918744-2s83o104g89e4d78a495b0hjaipjco4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackflag.virtualmirror",
+            "certificate_hash": "E24F947F5240006CAADED956689BBAC1206712BF"
+          }
+        },
+        {
+          "client_id": "125366918744-u2vo44uk74ncti0h1dl09evds4l2esb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7pUNi0g0CGt2seLSOuxpmNRoG_Fd-ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
